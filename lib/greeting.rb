@@ -1,6 +1,6 @@
 #greeting
 
-def greeting(name)
+def greeting(name = don)
  
   puts " Hello, #{name}. Its nice to meet you."
 
